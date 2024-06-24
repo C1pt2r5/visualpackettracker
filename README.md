@@ -6,7 +6,7 @@ Python 3.8 or later: Required for running the application.
 pip: Required for installing dependencies.
 Graphviz: Required for graph visualization (optional).
 # istallation
-Clone the repository: git clone https://github.com/your-username/visual-packet-tracker.git
+Clone the repository: git clone https://github.com/C1pt2r5/visual-packet-tracker.git
 Install dependencies: pip install -r requirements.txt
 install the all packet for run the program like :
 pip install net/if , sys/ioctl ...
