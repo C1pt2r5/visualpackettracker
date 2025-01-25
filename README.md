@@ -1,5 +1,5 @@
-# visualpackettracker
-# Visual Packet Tracker is a network packet analysis tool that provides a graphical representation of network packets, making it easier to understand and debug network communication. This project aims to create a user-friendly and interactive visualization platform for network packets, helping network administrators, developers, and researchers to better comprehend network behavior.
+# Network traffic analyser
+# Network traffic analyser is a network packet analysis tool that provides a graphical representation of network packets, making it easier to understand and debug network communication. This project aims to create a user-friendly and interactive visualization platform for network packets, helping network administrators, developers, and researchers to better comprehend network behavior.
 # Getting Started
 Prerequisites
 Python 3.8 or later: Required for running the application.
